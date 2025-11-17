@@ -1,0 +1,3 @@
+[console_scripts]
+cloud_fixer_node = cloud_fixer.cloud_fixer_node:main
+

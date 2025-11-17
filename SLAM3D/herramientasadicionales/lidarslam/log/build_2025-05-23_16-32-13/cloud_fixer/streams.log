@@ -1,0 +1,21 @@
+[0.270s] Invoking command in '/home/miningdox/tfg/pruebas/herramientasadicionales/lidarslam/cloud_fixer': PYTHONPATH=/home/miningdox/tfg/pruebas/herramientasadicionales/lidarslam/build/cloud_fixer/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/miningdox/tfg/pruebas/herramientasadicionales/lidarslam/install/cloud_fixer/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/cloud_fixer build --build-base /home/miningdox/tfg/pruebas/herramientasadicionales/lidarslam/build/cloud_fixer/build install --record /home/miningdox/tfg/pruebas/herramientasadicionales/lidarslam/build/cloud_fixer/install.log --single-version-externally-managed install_data
+[0.381s] running egg_info
+[0.382s] writing ../build/cloud_fixer/cloud_fixer.egg-info/PKG-INFO
+[0.382s] writing dependency_links to ../build/cloud_fixer/cloud_fixer.egg-info/dependency_links.txt
+[0.382s] writing entry points to ../build/cloud_fixer/cloud_fixer.egg-info/entry_points.txt
+[0.382s] writing requirements to ../build/cloud_fixer/cloud_fixer.egg-info/requires.txt
+[0.382s] writing top-level names to ../build/cloud_fixer/cloud_fixer.egg-info/top_level.txt
+[0.382s] reading manifest file '../build/cloud_fixer/cloud_fixer.egg-info/SOURCES.txt'
+[0.383s] writing manifest file '../build/cloud_fixer/cloud_fixer.egg-info/SOURCES.txt'
+[0.383s] running build
+[0.383s] running build_py
+[0.383s] running install
+[0.383s] running install_lib
+[0.384s] running install_data
+[0.384s] running install_egg_info
+[0.384s] removing '/home/miningdox/tfg/pruebas/herramientasadicionales/lidarslam/install/cloud_fixer/lib/python3.10/site-packages/cloud_fixer-0.0.0-py3.10.egg-info' (and everything under it)
+[0.384s] Copying ../build/cloud_fixer/cloud_fixer.egg-info to /home/miningdox/tfg/pruebas/herramientasadicionales/lidarslam/install/cloud_fixer/lib/python3.10/site-packages/cloud_fixer-0.0.0-py3.10.egg-info
+[0.385s] running install_scripts
+[0.393s] Installing cloud_fixer_node script to /home/miningdox/tfg/pruebas/herramientasadicionales/lidarslam/install/cloud_fixer/lib/cloud_fixer
+[0.393s] writing list of installed files to '/home/miningdox/tfg/pruebas/herramientasadicionales/lidarslam/build/cloud_fixer/install.log'
+[0.403s] Invoked command in '/home/miningdox/tfg/pruebas/herramientasadicionales/lidarslam/cloud_fixer' returned '0': PYTHONPATH=/home/miningdox/tfg/pruebas/herramientasadicionales/lidarslam/build/cloud_fixer/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/miningdox/tfg/pruebas/herramientasadicionales/lidarslam/install/cloud_fixer/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/cloud_fixer build --build-base /home/miningdox/tfg/pruebas/herramientasadicionales/lidarslam/build/cloud_fixer/build install --record /home/miningdox/tfg/pruebas/herramientasadicionales/lidarslam/build/cloud_fixer/install.log --single-version-externally-managed install_data

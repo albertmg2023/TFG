@@ -1,0 +1,37 @@
+[0.245s] Invoking command in '/home/miningdox/tfg/pruebas/herramientasadicionales/lidarslam/cloud_fixer': PYTHONPATH=/home/miningdox/tfg/pruebas/herramientasadicionales/lidarslam/build/cloud_fixer/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/miningdox/tfg/pruebas/herramientasadicionales/lidarslam/install/cloud_fixer/lib/python3.10/site-packages: /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/cloud_fixer build --build-base /home/miningdox/tfg/pruebas/herramientasadicionales/lidarslam/build/cloud_fixer/build install --record /home/miningdox/tfg/pruebas/herramientasadicionales/lidarslam/build/cloud_fixer/install.log --single-version-externally-managed install_data
+[0.339s] running egg_info
+[0.339s] creating ../build/cloud_fixer/cloud_fixer.egg-info
+[0.339s] writing ../build/cloud_fixer/cloud_fixer.egg-info/PKG-INFO
+[0.339s] writing dependency_links to ../build/cloud_fixer/cloud_fixer.egg-info/dependency_links.txt
+[0.339s] writing entry points to ../build/cloud_fixer/cloud_fixer.egg-info/entry_points.txt
+[0.339s] writing requirements to ../build/cloud_fixer/cloud_fixer.egg-info/requires.txt
+[0.339s] writing top-level names to ../build/cloud_fixer/cloud_fixer.egg-info/top_level.txt
+[0.339s] writing manifest file '../build/cloud_fixer/cloud_fixer.egg-info/SOURCES.txt'
+[0.340s] reading manifest file '../build/cloud_fixer/cloud_fixer.egg-info/SOURCES.txt'
+[0.340s] writing manifest file '../build/cloud_fixer/cloud_fixer.egg-info/SOURCES.txt'
+[0.340s] running build
+[0.340s] running build_py
+[0.340s] creating /home/miningdox/tfg/pruebas/herramientasadicionales/lidarslam/build/cloud_fixer/build
+[0.340s] creating /home/miningdox/tfg/pruebas/herramientasadicionales/lidarslam/build/cloud_fixer/build/lib
+[0.341s] creating /home/miningdox/tfg/pruebas/herramientasadicionales/lidarslam/build/cloud_fixer/build/lib/cloud_fixer
+[0.341s] copying cloud_fixer/__init__.py -> /home/miningdox/tfg/pruebas/herramientasadicionales/lidarslam/build/cloud_fixer/build/lib/cloud_fixer
+[0.341s] copying cloud_fixer/cloud_fixer.py -> /home/miningdox/tfg/pruebas/herramientasadicionales/lidarslam/build/cloud_fixer/build/lib/cloud_fixer
+[0.341s] running install
+[0.341s] running install_lib
+[0.341s] creating /home/miningdox/tfg/pruebas/herramientasadicionales/lidarslam/install/cloud_fixer/lib/python3.10/site-packages/cloud_fixer
+[0.341s] copying /home/miningdox/tfg/pruebas/herramientasadicionales/lidarslam/build/cloud_fixer/build/lib/cloud_fixer/__init__.py -> /home/miningdox/tfg/pruebas/herramientasadicionales/lidarslam/install/cloud_fixer/lib/python3.10/site-packages/cloud_fixer
+[0.341s] copying /home/miningdox/tfg/pruebas/herramientasadicionales/lidarslam/build/cloud_fixer/build/lib/cloud_fixer/cloud_fixer.py -> /home/miningdox/tfg/pruebas/herramientasadicionales/lidarslam/install/cloud_fixer/lib/python3.10/site-packages/cloud_fixer
+[0.341s] byte-compiling /home/miningdox/tfg/pruebas/herramientasadicionales/lidarslam/install/cloud_fixer/lib/python3.10/site-packages/cloud_fixer/__init__.py to __init__.cpython-310.pyc
+[0.341s] byte-compiling /home/miningdox/tfg/pruebas/herramientasadicionales/lidarslam/install/cloud_fixer/lib/python3.10/site-packages/cloud_fixer/cloud_fixer.py to cloud_fixer.cpython-310.pyc
+[0.341s] running install_data
+[0.341s] creating /home/miningdox/tfg/pruebas/herramientasadicionales/lidarslam/install/cloud_fixer/share/ament_index
+[0.341s] creating /home/miningdox/tfg/pruebas/herramientasadicionales/lidarslam/install/cloud_fixer/share/ament_index/resource_index
+[0.341s] creating /home/miningdox/tfg/pruebas/herramientasadicionales/lidarslam/install/cloud_fixer/share/ament_index/resource_index/packages
+[0.341s] copying resource/cloud_fixer -> /home/miningdox/tfg/pruebas/herramientasadicionales/lidarslam/install/cloud_fixer/share/ament_index/resource_index/packages
+[0.341s] copying package.xml -> /home/miningdox/tfg/pruebas/herramientasadicionales/lidarslam/install/cloud_fixer/share/cloud_fixer
+[0.341s] running install_egg_info
+[0.342s] Copying ../build/cloud_fixer/cloud_fixer.egg-info to /home/miningdox/tfg/pruebas/herramientasadicionales/lidarslam/install/cloud_fixer/lib/python3.10/site-packages/cloud_fixer-0.0.0-py3.10.egg-info
+[0.342s] running install_scripts
+[0.351s] Installing cloud_fixer_node script to /home/miningdox/tfg/pruebas/herramientasadicionales/lidarslam/install/cloud_fixer/lib/cloud_fixer
+[0.351s] writing list of installed files to '/home/miningdox/tfg/pruebas/herramientasadicionales/lidarslam/build/cloud_fixer/install.log'
+[0.361s] Invoked command in '/home/miningdox/tfg/pruebas/herramientasadicionales/lidarslam/cloud_fixer' returned '0': PYTHONPATH=/home/miningdox/tfg/pruebas/herramientasadicionales/lidarslam/build/cloud_fixer/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/miningdox/tfg/pruebas/herramientasadicionales/lidarslam/install/cloud_fixer/lib/python3.10/site-packages: /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/cloud_fixer build --build-base /home/miningdox/tfg/pruebas/herramientasadicionales/lidarslam/build/cloud_fixer/build install --record /home/miningdox/tfg/pruebas/herramientasadicionales/lidarslam/build/cloud_fixer/install.log --single-version-externally-managed install_data
