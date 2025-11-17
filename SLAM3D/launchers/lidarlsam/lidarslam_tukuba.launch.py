@@ -1,1 +1,0 @@
-/home/miningdox/tfg/pruebas/lidarslam2_ws/src/lidarslam_ros2/lidarslam/launch/lidarslam_tukuba.launch.py

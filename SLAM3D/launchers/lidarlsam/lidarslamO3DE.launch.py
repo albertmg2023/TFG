@@ -1,1 +1,0 @@
-/home/miningdox/tfg/pruebas/lidarslam_rosws/src/lidarslam_ros2/lidarslam/launch/lidarslam.launch.py
